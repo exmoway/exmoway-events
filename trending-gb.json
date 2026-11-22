@@ -1,6 +1,6 @@
 {
   "country_code": "GB",
-  "generated_at": "2026-11-20T00:00:00Z",
+  "generated_at": "2026-11-22T10:05:00Z",
   "_note": "Exmoway events list. Every dated item lists the official/checkable page its dates were verified on. Never add prices, percentages or search-volume claims. Items disappear automatically after their \"end\" date.",
   "headline": "Events & ideas for your next trip",
   "sub": "Upcoming events reachable from the UK — dates checked on official sites. Tap one to see flights.",
@@ -91,6 +91,20 @@
         "to": "MEL",
         "dep": "2027-01-21",
         "ret": "2027-02-01"
+      }
+    },
+    {
+      "title": "Sydney Gay and Lesbian Mardi Gras",
+      "blurb": "Festival of parties, arts and events in Sydney, Australia, with the parade on the closing weekend",
+      "dates": "12 Feb – 7 Mar 2027",
+      "end": "2027-03-07",
+      "source": "https://www.mardigras.org.au",
+      "source_name": "Sydney Mardi Gras",
+      "search": {
+        "from": "LHR",
+        "to": "SYD",
+        "dep": "2027-02-11",
+        "ret": "2027-03-08"
       }
     },
     {

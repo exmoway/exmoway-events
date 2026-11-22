@@ -1,6 +1,6 @@
 {
   "country_code": "AU",
-  "generated_at": "2026-11-20T00:00:00Z",
+  "generated_at": "2026-11-22T10:05:00Z",
   "_note": "Exmoway events list. Every dated item lists the official/checkable page its dates were verified on. Never add prices, percentages or search-volume claims. Items disappear automatically after their \"end\" date.",
   "headline": "Events & ideas for your next trip",
   "sub": "Upcoming events from Australia — dates checked on official sites. Tap one to see flights from Sydney.",
@@ -81,6 +81,20 @@
         "to": "LAX",
         "dep": "2027-02-11",
         "ret": "2027-02-17"
+      }
+    },
+    {
+      "title": "Australian Grand Prix",
+      "blurb": "Formula 1 race weekend in Melbourne, including the first Formula 1 sprint race in Australia",
+      "dates": "1–4 Apr 2027",
+      "end": "2027-04-04",
+      "source": "https://www.premier.vic.gov.au/melbourne-start-2027-formula-1-sprint-first",
+      "source_name": "Premier of Victoria",
+      "search": {
+        "from": "SYD",
+        "to": "MEL",
+        "dep": "2027-03-31",
+        "ret": "2027-04-05"
       }
     }
   ]
