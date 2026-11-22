@@ -1,0 +1,92 @@
+{
+  "country_code": "TH",
+  "generated_at": "2026-11-20T00:00:00Z",
+  "_note": "Exmoway events list. Every dated item lists the official/checkable page its dates were verified on. Never add prices, percentages or search-volume claims. Items disappear automatically after their \"end\" date.",
+  "headline": "Events & ideas for your next trip",
+  "sub": "Upcoming events from Thailand — dates checked on official sites. Tap one to see flights from Bangkok.",
+  "items": [
+    {
+      "title": "Christmas market in Nuremberg",
+      "blurb": "One of Germany's best-known Christmas markets, on the old town's main square",
+      "dates": "27 Nov – 24 Dec 2026",
+      "end": "2026-12-24",
+      "source": "https://tourismus.nuernberg.de/en/experience/christkindlesmarkt/",
+      "source_name": "Nuremberg Tourism",
+      "route": "germany"
+    },
+    {
+      "title": "Dubai Shopping Festival",
+      "blurb": "45 days of shopping promotions, concerts and events across Dubai",
+      "dates": "4 Dec 2026 – 17 Jan 2027",
+      "end": "2027-01-17",
+      "source": "https://www.wam.ae/en/article/c36ot7t-dubai-shopping-festival-launch-32nd-edition-4th",
+      "source_name": "WAM (UAE news agency)",
+      "route": "uae"
+    },
+    {
+      "title": "New Year's Eve in Sydney",
+      "blurb": "Fireworks over Sydney Harbour at 9pm and midnight",
+      "dates": "31 Dec 2026",
+      "end": "2026-12-31",
+      "source": "https://www.sydneynewyearseve.com/",
+      "source_name": "City of Sydney",
+      "search": {
+        "from": "BKK",
+        "to": "SYD",
+        "dep": "2026-12-29",
+        "ret": "2027-01-03"
+      }
+    },
+    {
+      "title": "Australian Open tennis",
+      "blurb": "The first tennis Grand Slam of the year, at Melbourne Park",
+      "dates": "11–31 Jan 2027",
+      "end": "2027-01-31",
+      "source": "https://www.melbournepark.com.au/event/australian-open-2027/",
+      "source_name": "Melbourne Park",
+      "search": {
+        "from": "BKK",
+        "to": "MEL",
+        "dep": "2027-01-24",
+        "ret": "2027-02-01"
+      }
+    },
+    {
+      "title": "Sapporo Snow Festival",
+      "blurb": "Huge snow and ice sculptures in Odori Park and other sites in Sapporo, Japan",
+      "dates": "4–11 Feb 2027",
+      "end": "2027-02-11",
+      "source": "https://www.sapporo.travel/en/event/event-list/sapporo_snow_festival/",
+      "source_name": "Sapporo Tourism",
+      "search": {
+        "from": "BKK",
+        "to": "CTS",
+        "dep": "2027-02-03",
+        "ret": "2027-02-09"
+      }
+    },
+    {
+      "title": "Lunar New Year",
+      "blurb": "The Year of the Goat begins — big celebrations in Singapore, Hong Kong, Taipei and beyond",
+      "dates": "6 Feb 2027",
+      "end": "2027-02-07",
+      "source": "https://www.mom.gov.sg/employment-practices/public-holidays",
+      "source_name": "Singapore Ministry of Manpower",
+      "route": "bangkok-to-hong-kong"
+    },
+    {
+      "title": "Carnival of Venice",
+      "blurb": "Masks, costumes and events across Venice in the weeks before Lent",
+      "dates": "23 Jan – 9 Feb 2027",
+      "end": "2027-02-09",
+      "source": "https://www.carnevale.venezia.it/en/",
+      "source_name": "Carnevale di Venezia",
+      "route": "italy"
+    },
+    {
+      "title": "Winter in Japan",
+      "blurb": "Snow, hot springs and winter illuminations",
+      "route": "bangkok-to-tokyo"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "country_code": "US",
+  "generated_at": "2026-11-20T00:00:00Z",
+  "_note": "Exmoway events list. Every dated item lists the official/checkable page its dates were verified on. Never add prices, percentages or search-volume claims. Items disappear automatically after their \"end\" date.",
+  "headline": "Events & ideas for your next trip",
+  "sub": "Upcoming events from the US — dates checked on official sites. Tap one to see flights from New York.",
+  "items": [
+    {
+      "title": "Christmas market in Nuremberg",
+      "blurb": "One of Germany's best-known Christmas markets, on the old town's main square",
+      "dates": "27 Nov – 24 Dec 2026",
+      "end": "2026-12-24",
+      "source": "https://tourismus.nuernberg.de/en/experience/christkindlesmarkt/",
+      "source_name": "Nuremberg Tourism",
+      "route": "germany"
+    },
+    {
+      "title": "Hogmanay in Edinburgh",
+      "blurb": "Scotland's famous New Year's Eve street party in the city centre",
+      "dates": "31 Dec 2026",
+      "end": "2026-12-31",
+      "source": "https://edwinterfest.com/about-hogmanay",
+      "source_name": "Edinburgh's Hogmanay",
+      "search": {
+        "from": "JFK",
+        "to": "EDI",
+        "dep": "2026-12-29",
+        "ret": "2027-01-02"
+      }
+    },
+    {
+      "title": "New Year's Eve in Sydney",
+      "blurb": "Fireworks over Sydney Harbour at 9pm and midnight",
+      "dates": "31 Dec 2026",
+      "end": "2026-12-31",
+      "source": "https://www.sydneynewyearseve.com/",
+      "source_name": "City of Sydney",
+      "search": {
+        "from": "JFK",
+        "to": "SYD",
+        "dep": "2026-12-27",
+        "ret": "2027-01-05"
+      }
+    },
+    {
+      "title": "Carnival of Venice",
+      "blurb": "Masks, costumes and events across Venice in the weeks before Lent",
+      "dates": "23 Jan – 9 Feb 2027",
+      "end": "2027-02-09",
+      "source": "https://www.carnevale.venezia.it/en/",
+      "source_name": "Carnevale di Venezia",
+      "search": {
+        "from": "JFK",
+        "to": "VCE",
+        "dep": "2027-01-28",
+        "ret": "2027-02-03"
+      }
+    },
+    {
+      "title": "Mardi Gras in New Orleans",
+      "blurb": "Fat Tuesday, the high point of the New Orleans carnival season",
+      "dates": "9 Feb 2027",
+      "end": "2027-02-09",
+      "source": "https://www.neworleans.com/events/holidays-seasonal/mardi-gras/future-mardi-gras-dates/",
+      "source_name": "New Orleans & Company",
+      "search": {
+        "from": "JFK",
+        "to": "MSY",
+        "dep": "2027-02-05",
+        "ret": "2027-02-10"
+      }
+    },
+    {
+      "title": "Rio Carnival",
+      "blurb": "Rio’s top samba schools parade at the Sambadrome over three nights",
+      "dates": "7–9 Feb 2027",
+      "end": "2027-02-09",
+      "source": "https://www.rio.com/rio-carnival/carnival-parades",
+      "source_name": "Rio.com",
+      "search": {
+        "from": "JFK",
+        "to": "GIG",
+        "dep": "2027-02-05",
+        "ret": "2027-02-11"
+      }
+    },
+    {
+      "title": "Super Bowl LXI, Los Angeles",
+      "blurb": "The NFL championship game at SoFi Stadium in Inglewood",
+      "dates": "14 Feb 2027",
+      "end": "2027-02-14",
+      "source": "https://www.santamonica.com/event/super-bowl-lxi-at-sofi-stadium",
+      "source_name": "Santa Monica Travel & Tourism",
+      "search": {
+        "from": "JFK",
+        "to": "LAX",
+        "dep": "2027-02-12",
+        "ret": "2027-02-15"
+      }
+    },
+    {
+      "title": "Winter warmth in Miami",
+      "blurb": "Mild, sunny winter weather in South Florida",
+      "route": "new-york-to-miami"
+    }
+  ]
+}

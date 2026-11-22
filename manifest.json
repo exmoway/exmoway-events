@@ -1,0 +1,12 @@
+{
+  "_note": "Country lists the website downloads. \"world\" is required.",
+  "files": [
+    "world",
+    "gb",
+    "us",
+    "th",
+    "au",
+    "ae",
+    "sg"
+  ]
+}

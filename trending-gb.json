@@ -1,0 +1,111 @@
+{
+  "country_code": "GB",
+  "generated_at": "2026-11-20T00:00:00Z",
+  "_note": "Exmoway events list. Every dated item lists the official/checkable page its dates were verified on. Never add prices, percentages or search-volume claims. Items disappear automatically after their \"end\" date.",
+  "headline": "Events & ideas for your next trip",
+  "sub": "Upcoming events reachable from the UK — dates checked on official sites. Tap one to see flights.",
+  "items": [
+    {
+      "title": "Christmas market in Nuremberg",
+      "blurb": "One of Germany's best-known Christmas markets, on the old town's main square",
+      "dates": "27 Nov – 24 Dec 2026",
+      "end": "2026-12-24",
+      "source": "https://tourismus.nuernberg.de/en/experience/christkindlesmarkt/",
+      "source_name": "Nuremberg Tourism",
+      "route": "germany"
+    },
+    {
+      "title": "Abu Dhabi Grand Prix",
+      "blurb": "The Formula 1 season finale at Yas Marina Circuit — race on Sunday 6 December",
+      "dates": "3–6 Dec 2026",
+      "end": "2026-12-06",
+      "source": "https://www.gulftoday.ae/sport/2026/11/13/abu-dhabi-set-to-host-18th-formula-1-grand-prix-from-december-3-to-6",
+      "source_name": "Gulf Today",
+      "search": {
+        "from": "LHR",
+        "to": "AUH",
+        "dep": "2026-12-03",
+        "ret": "2026-12-07"
+      }
+    },
+    {
+      "title": "Dubai Shopping Festival",
+      "blurb": "45 days of shopping promotions, concerts and events across Dubai",
+      "dates": "4 Dec 2026 – 17 Jan 2027",
+      "end": "2027-01-17",
+      "source": "https://www.wam.ae/en/article/c36ot7t-dubai-shopping-festival-launch-32nd-edition-4th",
+      "source_name": "WAM (UAE news agency)",
+      "route": "london-to-dubai"
+    },
+    {
+      "title": "Hogmanay in Edinburgh",
+      "blurb": "Scotland's famous New Year's Eve street party in the city centre",
+      "dates": "31 Dec 2026",
+      "end": "2026-12-31",
+      "source": "https://edwinterfest.com/about-hogmanay",
+      "source_name": "Edinburgh's Hogmanay",
+      "search": {
+        "from": "LHR",
+        "to": "EDI",
+        "dep": "2026-12-30",
+        "ret": "2027-01-01"
+      }
+    },
+    {
+      "title": "Carnival of Venice",
+      "blurb": "Masks, costumes and events across Venice in the weeks before Lent",
+      "dates": "23 Jan – 9 Feb 2027",
+      "end": "2027-02-09",
+      "source": "https://www.carnevale.venezia.it/en/",
+      "source_name": "Carnevale di Venezia",
+      "search": {
+        "from": "LHR",
+        "to": "VCE",
+        "dep": "2027-01-29",
+        "ret": "2027-02-01"
+      }
+    },
+    {
+      "title": "Sapporo Snow Festival",
+      "blurb": "Huge snow and ice sculptures in Odori Park and other sites in Sapporo, Japan",
+      "dates": "4–11 Feb 2027",
+      "end": "2027-02-11",
+      "source": "https://www.sapporo.travel/en/event/event-list/sapporo_snow_festival/",
+      "source_name": "Sapporo Tourism",
+      "search": {
+        "from": "LHR",
+        "to": "CTS",
+        "dep": "2027-02-03",
+        "ret": "2027-02-12"
+      }
+    },
+    {
+      "title": "Australian Open tennis",
+      "blurb": "The first tennis Grand Slam of the year, at Melbourne Park",
+      "dates": "11–31 Jan 2027",
+      "end": "2027-01-31",
+      "source": "https://www.melbournepark.com.au/event/australian-open-2027/",
+      "source_name": "Melbourne Park",
+      "search": {
+        "from": "LHR",
+        "to": "MEL",
+        "dep": "2027-01-21",
+        "ret": "2027-02-01"
+      }
+    },
+    {
+      "title": "Winter sun in Tenerife",
+      "blurb": "Reliable winter warmth in the Canary Islands",
+      "route": "london-to-tenerife-south"
+    },
+    {
+      "title": "Holi in India",
+      "blurb": "The festival of colours (the exact date can vary by state)",
+      "dates": "22 Mar 2027",
+      "end": "2027-03-22",
+      "source": "https://www.officeholidays.com/holidays/india/holi",
+      "source_name": "Office Holidays",
+      "route": "london-to-delhi"
+    }
+  ]
+}
