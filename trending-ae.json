@@ -1,6 +1,6 @@
 {
   "country_code": "AE",
-  "generated_at": "2026-11-22T10:05:00Z",
+  "generated_at": "2026-11-22T13:00:00Z",
   "_note": "Exmoway events list. Every dated item lists the official/checkable page its dates were verified on. Never add prices, percentages or search-volume claims. Items disappear automatically after their \"end\" date.",
   "headline": "Events & ideas for your next trip",
   "sub": "Upcoming events from the UAE — dates checked on official sites. Tap one to see flights from Dubai.",
@@ -68,6 +68,20 @@
         "to": "CTS",
         "dep": "2027-02-03",
         "ret": "2027-02-12"
+      }
+    },
+    {
+      "title": "Quebec Winter Carnival",
+      "blurb": "Ten days of parades, ice sculptures and outdoor events in Quebec City, Canada",
+      "dates": "5–14 Feb 2027",
+      "end": "2027-02-14",
+      "source": "https://carnaval.qc.ca/",
+      "source_name": "Carnaval de Québec",
+      "search": {
+        "from": "DXB",
+        "to": "YQB",
+        "dep": "2027-02-04",
+        "ret": "2027-02-15"
       }
     },
     {
