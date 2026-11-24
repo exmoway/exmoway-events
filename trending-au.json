@@ -1,19 +1,10 @@
 {
   "country_code": "AU",
-  "generated_at": "2026-11-22T13:00:00Z",
+  "generated_at": "2026-11-24T02:12:35Z",
   "_note": "Exmoway events list. Every dated item lists the official/checkable page its dates were verified on. Never add prices, percentages or search-volume claims. Items disappear automatically after their \"end\" date.",
   "headline": "Events & ideas for your next trip",
   "sub": "Upcoming events from Australia — dates checked on official sites. Tap one to see flights from Sydney.",
   "items": [
-    {
-      "title": "Australian Open tennis",
-      "blurb": "The first tennis Grand Slam of the year, at Melbourne Park",
-      "dates": "11–31 Jan 2027",
-      "end": "2027-01-31",
-      "source": "https://www.melbournepark.com.au/event/australian-open-2027/",
-      "source_name": "Melbourne Park",
-      "route": "sydney-to-melbourne"
-    },
     {
       "title": "Christmas market in Nuremberg",
       "blurb": "One of Germany's best-known Christmas markets, on the old town's main square",
@@ -24,6 +15,20 @@
       "route": "germany"
     },
     {
+      "title": "Boxing Day Test at the MCG",
+      "blurb": "Australia v New Zealand Test cricket at the Melbourne Cricket Ground",
+      "dates": "26–30 Dec 2026",
+      "end": "2026-12-30",
+      "source": "https://www.mcg.org.au/news/2026/march/international-cricket-schedule-confirmed-for-202627",
+      "source_name": "Melbourne Cricket Ground",
+      "search": {
+        "from": "SYD",
+        "to": "MEL",
+        "dep": "2026-12-25",
+        "ret": "2026-12-31"
+      }
+    },
+    {
       "title": "Dubai Shopping Festival",
       "blurb": "45 days of shopping promotions, concerts and events across Dubai",
       "dates": "4 Dec 2026 – 17 Jan 2027",
@@ -31,6 +36,38 @@
       "source": "https://www.wam.ae/en/article/c36ot7t-dubai-shopping-festival-launch-32nd-edition-4th",
       "source_name": "WAM (UAE news agency)",
       "route": "uae"
+    },
+    {
+      "title": "Australian Open tennis",
+      "blurb": "The first tennis Grand Slam of the year, at Melbourne Park",
+      "dates": "11–31 Jan 2027",
+      "end": "2027-01-31",
+      "source": "https://www.melbournepark.com.au/event/australian-open-2027/",
+      "source_name": "Melbourne Park",
+      "route": "sydney-to-melbourne"
+    },
+    {
+      "title": "Lunar New Year",
+      "blurb": "The Year of the Goat begins — big celebrations in Singapore, Hong Kong, Taipei and beyond",
+      "dates": "6 Feb 2027",
+      "end": "2027-02-07",
+      "source": "https://www.mom.gov.sg/employment-practices/public-holidays",
+      "source_name": "Singapore Ministry of Manpower",
+      "search": {
+        "from": "SYD",
+        "to": "SIN",
+        "dep": "2027-02-04",
+        "ret": "2027-02-08"
+      }
+    },
+    {
+      "title": "Carnival of Venice",
+      "blurb": "Masks, costumes and events across Venice in the weeks before Lent",
+      "dates": "23 Jan – 9 Feb 2027",
+      "end": "2027-02-09",
+      "source": "https://www.carnevale.venezia.it/en/",
+      "source_name": "Carnevale di Venezia",
+      "route": "italy"
     },
     {
       "title": "Sapporo Snow Festival",
@@ -59,29 +96,6 @@
         "dep": "2027-02-04",
         "ret": "2027-02-15"
       }
-    },
-    {
-      "title": "Lunar New Year",
-      "blurb": "The Year of the Goat begins — big celebrations in Singapore, Hong Kong, Taipei and beyond",
-      "dates": "6 Feb 2027",
-      "end": "2027-02-07",
-      "source": "https://www.mom.gov.sg/employment-practices/public-holidays",
-      "source_name": "Singapore Ministry of Manpower",
-      "search": {
-        "from": "SYD",
-        "to": "SIN",
-        "dep": "2027-02-04",
-        "ret": "2027-02-08"
-      }
-    },
-    {
-      "title": "Carnival of Venice",
-      "blurb": "Masks, costumes and events across Venice in the weeks before Lent",
-      "dates": "23 Jan – 9 Feb 2027",
-      "end": "2027-02-09",
-      "source": "https://www.carnevale.venezia.it/en/",
-      "source_name": "Carnevale di Venezia",
-      "route": "italy"
     },
     {
       "title": "Super Bowl LXI, Los Angeles",
